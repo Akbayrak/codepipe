@@ -1,1 +1,3 @@
-#Hallo World
+# Sample Application for AWS DevOps Course
+
+#updated this file
